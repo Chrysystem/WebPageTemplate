@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link href="styles.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+        <link rel="shortcut icon" href="images/Logo_CSD.png">
+        <title>Server_NAS</title>
+
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <h1>Server Pi Hosted</h1>
+                <ul>
+                    <li><a href="/dokuwiki/index.php">Wiki</a></li>
+                    <li><a href="http://192.168.1.70:8080/#/Dashboard">Domotic</a></li>
+                    <li><a href="http://192.168.1.39:1880/ui">Node-red</a></li>
+                    <li><a href="http://192.168.1.39:8902">Dashboard Server</a></li>
+                    <li><a href="TEST.html">test</a></li>
+                </ul>
+            </div>
+        </header>
+
+            <section id="main">
+                <div class="container">
+
+                    <h2><strong>Bienvenue sur ma page web</strong></h2>
+
+                   <!-- <p>Ici c'est le site </p>-->
+                   <!-- <a href="#" class="bouton1">**En construction**</a>-->
+
+                </div>
+            </section>
+
+
+        <section id="second">
+            <div class="container">
+
+            </div>
+
+
+        </section>
+        
+                   <section id="main">
+                <div class="container">
+
+                    <h2><strong>Bienvenue sur ma page web</strong></h2>
+
+                   <!-- <p>Ici c'est le site </p>-->
+                   <!-- <a href="#" class="bouton1">**En construction**</a>-->
+
+                </div>
+            </section>
+
+
+        <section id="second">
+            <div class="container">
+
+            </div>
+
+
+        </section>
+
+
+
+
+
+        <footer>
+            <div class="container">
+                <p>Site Créé par:</p>
+                <p>Chrysystem</p>
+            </div>
+
+        </footer>
+    </body>
+
+</html>
